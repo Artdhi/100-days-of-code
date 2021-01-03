@@ -2,11 +2,11 @@
 
 ### Day 0: January 3, 2021
 #####
-**Today's Progress**: Started my first challenge on FreeCodeCamp, setting up my Github account. 
+**Today's Progress**: Started my first challenge on FreeCodeCamp, setting up my Github account. I just finished the basic HTML and HTML5 on https://www.freecodecamp.org/
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** It is actually quite fun learning HTML and HTML5 on https://www.freecodecamp.org/ . I thought that 1 hour learn to code is easy but actually it isn't but still exciting learning how to code. 
 
-**Link to work:** 
+**Link to work:** https://www.freecodecamp.org/
 
 
 **Link(s) to work**
