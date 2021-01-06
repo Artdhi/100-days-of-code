@@ -19,12 +19,21 @@ This is so exciting so far xixixi
 
 ### Day 2: January 5, 2021
 #####
-**Today's Progress**: I just finished the Basic CSS on http://freecodecamp.org and that's all
+**Today's Progress**: I just finished the Basic CSS on http://freecodecamp.org
 
 **Thoughts:** nothing special today (just overwhelmed by the information that I just got, it was so many)
 This is so exciting so far xixixi
 
 **Link to work:** https://www.freecodecamp.org/
+
+### Day 3: January 6, 2021
+#####
+**Today's Progress**: Completed 25% of Applied Visual Design on http://freecodecamp.org
+
+**Thoughts:** Keep up the spirit! just tried to install HTML on my Visual Studio Code and wrote some simple code and then tried to run it
+
+**Link to work:** https://www.freecodecamp.org/
+
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
