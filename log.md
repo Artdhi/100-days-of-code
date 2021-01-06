@@ -17,6 +17,14 @@ This is so exciting so far xixixi
 
 **Link to work:** https://www.freecodecamp.org/
 
+### Day 2: January 5, 2021
+#####
+**Today's Progress**: I just finished the Basic CSS on http://freecodecamp.org and that's all
+
+**Thoughts:** nothing special today (just overwhelmed by the information that I just got, it was so many)
+This is so exciting so far xixixi
+
+**Link to work:** https://www.freecodecamp.org/
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
